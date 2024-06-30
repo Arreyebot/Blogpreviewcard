@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://arreyebot.github.io/)
-- Live Site URL:(https://your-live-site-url.com)
+- Live Site URL:(https://arreyebot.github.io/)
 
 ## My process
 
