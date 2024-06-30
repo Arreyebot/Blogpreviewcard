@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/Screenshot%20(196).png)
+![](./assets/images/Screenshot%20(200).png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://arreyebot.github.io/)
+- Live Site URL:(https://your-live-site-url.com)
 
 ## My process
 
